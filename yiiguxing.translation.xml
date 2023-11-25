@@ -1,0 +1,151 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="456" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="现在的我起不来" />
+      <item value="正常下班时间是" />
+      <item value="clever" />
+      <item value="聪明" />
+      <item value="越大越重" />
+      <item value="越大 越重" />
+      <item value="真要养了" />
+      <item value="边牧犬" />
+      <item value="边牧" />
+      <item value="取决于实际看到的" />
+      <item value="看起来你很喜欢" />
+      <item value="小孩" />
+      <item value="有想整蛊的对象吗" />
+      <item value="回复" />
+      <item value="是一直都有吗" />
+      <item value="仅仅几次" />
+      <item value="我也没怎么用过" />
+      <item value="我觉得很垃圾" />
+      <item value="我觉得很烂" />
+      <item value="集中式代码管理" />
+      <item value="太老了" />
+      <item value="不知道也正常" />
+      <item value="好无聊" />
+      <item value="未选择" />
+      <item value="EXCEL CONVERT PDF WIDTH" />
+      <item value="EXCEL CONVERT WIDTH PDF" />
+      <item value="Full Time" />
+      <item value="is Bold" />
+      <item value="no wonder u understand english" />
+      <item value="确实，感觉玩游戏的和编程重合度比较高" />
+      <item value="separate" />
+      <item value="刚才在开会" />
+      <item value="不确定，有时候加班" />
+      <item value="disturbing" />
+      <item value="让人发笑" />
+      <item value="翻译有点好玩" />
+      <item value="racing into the night" />
+      <item value="级联" />
+      <item value="级联删除" />
+      <item value="establish Declaration Id" />
+      <item value="can Show Current" />
+      <item value="评审安排人" />
+      <item value="分歧点" />
+      <item value="gen Select Obj Id Sql 4 Declaration Sub Resp Group" />
+      <item value="in Deletable Status" />
+      <item value="formula" />
+      <item value="access" />
+      <item value="constrained" />
+      <item value="Interceptor" />
+      <item value="Serializable" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
+        <entry key="LATIN" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1670315966509" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1700449801924" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="578" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="456" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="非法操作" />
+      <item value="Please refer to C:\LocalProject\gulimall\Guli Mall\gulimall\gulimall-order\target\surefire-reports for the individual test results. Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].dumpstream." />
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project gulimall-order: There are test failures." />
+      <item value="deprecated" />
+      <item value="Failure to find org.pentaho:pentaho-aggdesigner-algorithm:pom:5.1.5-jhyde in https:repo.maven.apache.orgmaven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced" />
+      <item value="origin Json" />
+      <item value="origon Json" />
+      <item value="Json Comparator" />
+      <item value="Queued mail for delivery" />
+      <item value="delivery" />
+      <item value="滚动条" />
+      <item value="Type specified for TypedQuery [java.lang.Long] is incompatible with query return type [class java.lang.Integer" />
+      <item value="Invalid use of group function" />
+      <item value="During the schedule to recalc purchase package date" />
+      <item value="Notify Alert" />
+      <item value="Failure to find org.pentaho:pentaho-aggdesigner-algorithm:pom:5.1.5-jhyde in https:maven.aliyun.comrepositorycentral was cached in the local repository, resolution will not be reattempted until the update interval of alimaven-new-central has elapsed or updates are forced" />
+      <item value="It Review Project" />
+      <item value="It Review User" />
+      <item value="It Review Notify" />
+      <item value="is Approval Requestor" />
+      <item value="can Adjust Stage" />
+      <item value="can Withdraw Stage" />
+      <item value="decorate User Buttons" />
+      <item value="Secret" />
+      <item value="sql-type=" />
+      <item value="project Comment" />
+      <item value="proj post evaluat" />
+      <item value="evaluat" />
+      <item value="Create TS" />
+      <item value="Creator Id" />
+      <item value="后评价" />
+      <item value="位数" />
+      <item value="Adjusted" />
+      <item value="divide" />
+      <item value="后缀" />
+      <item value="currency" />
+      <item value="美元" />
+      <item value="Medium" />
+      <item value="中等" />
+      <item value="货币" />
+      <item value="small" />
+      <item value="large" />
+      <item value="middle" />
+      <item value="cvs server: use 'cvs commit' to add this file permanently" />
+      <item value="亮点" />
+      <item value="Predicate" />
+      <item value="s s" />
+      <item value="秘密" />
+      <item value="time Unit" />
+      <item value="mod Date" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="BASQUE" value="1" />
+        <entry key="CHINESE" value="280" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ENGLISH" value="280" />
+        <entry key="FRENCH" value="3" />
+        <entry key="GERMAN" value="1" />
+        <entry key="HINDI" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="ROMANIAN" value="3" />
+        <entry key="SPANISH" value="3" />
+      </map>
+    </option>
+  </component>
+</application>

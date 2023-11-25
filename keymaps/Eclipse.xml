@@ -1,0 +1,3 @@
+<keymap version="1" name="Eclipse 副本" parent="Eclipse">
+  <action id="Terminal.SwitchFocusToEditor" />
+</keymap>

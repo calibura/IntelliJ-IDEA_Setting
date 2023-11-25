@@ -1,0 +1,5 @@
+<templateSet group="user">
+  <template name="swg" value="@ApiOperation(value = &quot;&quot;,notes = &quot;&quot;)&#10;@ApiImplicitParams({&#10;$apiparams$&#10;})" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="apiparams" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
